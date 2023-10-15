@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">AndroidTest</string>
+    <string name="title_menu">Menu</string>
+    <string name="loading_wait">Loading, Please wait…</string>
+    <string name="name">Name: </string>
+    <string name="type">Type: </string>
+    <string name="phylum">Phylum: </string>
+    <string name="scientific_name">Scientific Name: </string>
+    <string name="slogan">Slogan: </string>
+    <string name="lifespan">Lifespan: </string>
+    <string name="wingspan">Wingspan: </string>
+    <string name="habitat">Habitat: </string>
+    <string name="prey">Prey: </string>
+    <string name="predators">Predators: </string>
+    <string name="not_available">N/A</string>
+    <string name="error">Error</string>
+    <string name="retry">Retry</string>
+    <string name="loading">Loading</string>
+    <string name="search_here">Search Here…</string>
+    <string name="search">Search</string>
+    <string name="dog">Dog</string>
+</resources>
